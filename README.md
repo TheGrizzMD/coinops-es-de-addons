@@ -10,7 +10,7 @@
 ## **Installation**
 1. Place the imageOverrides folder in the ***coinops-es-de*** directory
     - For SteamOS on Steam deck this path will likely be: ```/home/deck/.emulationstation/themes/coinops-es-de```
-    - For Windows Portable the path is: ```PathToES-DE"\.emulationstation\themes\coinops-es-de***```
+    - For Windows Portable the path is: ```"PathToES-DE"\.emulationstation\themes\coinops-es-de```
 
 ## **Other Artwork**
 - Artwork for the standard media types supported by ES-DE can be scraped as normal from within ES-DE
