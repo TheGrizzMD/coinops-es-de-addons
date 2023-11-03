@@ -2,11 +2,7 @@
 - This repository contains arcade cabinet images for the coinop-es-de theme for EmulationStation Desktop Edition.
 - The images are for a curated MAME rom set of 694 games, and I am just uploading them to this repository in case anyone else wants to use them.
 - The set uses USA region roms where available.  The files can be renamed as needed for different parent/clone roms as desired
-- I plan on uploading a dat file for this set as well at some point.
 
-## **YouTube Preview**
-- Coming soon
-  
 ## **Installation**
 1. Place the imageOverrides folder in the ***coinops-es-de*** directory
     - For SteamOS on Steam deck this path will likely be: ```/home/deck/.emulationstation/themes/coinops-es-de```
