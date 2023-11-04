@@ -4,7 +4,7 @@
 - The set uses USA region roms where available.  The files can be renamed as needed for different parent/clone roms.
 
 ## **Youtube Preview:**
-[![Youtube Preview](https://github.com/TheGrizzMD/coinops-es-de-addons/assets/39314057/64591254-6c67-4426-820d-db74bc788a73)](https://www.youtube.com/watch?v=725EiST1-qQ)
+[![Youtube Preview](https://img.youtube.com/vi/725EiST1-qQ/0.jpg)](https://www.youtube.com/watch?v=725EiST1-qQ)
 
 ## **Installation**
 1. Place the imageOverrides folder in the root ***coinops-es-de*** theme directory
